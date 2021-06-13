@@ -1,0 +1,13 @@
+[
+  {
+    "name": "霞鹜文楷",
+    "files": [
+      "xwwk-Bold.ttf",
+      "xwwk-Light.ttf",
+      "xwwk-Regular.ttf"
+    ],
+    "desc": "An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。",
+    "official": "https://github.com/lxgw/LxgwWenKai",
+    "license": "OFL-1.1"
+  }
+]
