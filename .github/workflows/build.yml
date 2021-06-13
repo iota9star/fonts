@@ -1,0 +1,21 @@
+name: update fonts
+on:
+  workflow_dispatch:
+    inputs:
+      TAG:
+        description: 'Set a Tag'
+        required: true
+  push:
+jobs:
+  build:
+    name: Update fonts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: To release
+        uses: ncipollo/release-action@v1
+        with:
+          allowUpdates: true
+          artifacts: "*.ttf"
+          token: ${{ secrets.ACTION_TOKEN }}
+          tag: ${{ github.event.inputs.TAG || '1.0.0'}}
