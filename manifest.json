@@ -1,14 +1,32 @@
 [
   {
+    "id": "hmsans",
+    "name": "HarmonyOS Sans",
+    "files": [
+      "hmsans/HarmonyOS_Sans_SC_Black.ttf",
+      "hmsans/HarmonyOS_Sans_SC_Bold.ttf",
+      "hmsans/HarmonyOS_Sans_SC_Light.ttf",
+      "hmsans/HarmonyOS_Sans_SC_Medium.ttf",
+      "hmsans/HarmonyOS_Sans_SC_Thin.ttf"
+    ],
+    "desc": "华为全新品牌定制字体，HarmonyOS Sans字体版权归华为所有",
+    "official": "https://developer.harmonyos.com",
+    "license": {
+      "url": "hmsans/LICENSE.txt"
+    }
+  },
+  {
     "id": "xwwk",
     "name": "霞鹜文楷",
     "files": [
-      "xwwk-Bold.ttf",
-      "xwwk-Light.ttf",
-      "xwwk-Regular.ttf"
+      "xwwk/xwwk-Bold.ttf",
+      "xwwk/xwwk-Light.ttf",
+      "xwwk/xwwk-Regular.ttf"
     ],
     "desc": "An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。",
     "official": "https://github.com/lxgw/LxgwWenKai",
-    "license": "OFL-1.1"
+    "license": {
+      "name": "OFL-1.1"
+    }
   }
 ]
