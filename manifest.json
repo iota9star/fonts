@@ -12,6 +12,7 @@
     "desc": "华为全新品牌定制字体，HarmonyOS Sans字体版权归华为所有",
     "official": "https://developer.harmonyos.com",
     "license": {
+      "name": "其他协议",
       "url": "hmsans/LICENSE.txt"
     }
   },
@@ -26,7 +27,122 @@
     "desc": "An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。",
     "official": "https://github.com/lxgw/LxgwWenKai",
     "license": {
-      "name": "OFL-1.1"
+      "name": "OFL-1.1",
+      "url": "https://opensource.org/licenses/OFL-1.1"
+    }
+  },
+  {
+    "id": "lhzt",
+    "name": "濑户字体",
+    "files": [
+      "lhzt/SetoFont-1.ttf"
+    ],
+    "desc": "濑户字型由日本的一位业余字体设计师 瀬戸のぞみ小姐 制作。支持简体、繁体、日文，而且支援日文包含 CJK 常用汉字、平片假名、JIS第一至四级，共 30000多字，是设计师个人手书，丝毫不造作，走的是一个好人缘天然呆的路线，甚至西文也很可爱。",
+    "official": "https://store.justfont.com/fontdetail/147",
+    "license": {
+      "name": "其他协议",
+      "url": "https://store.justfont.com/fontdetail/147"
+    }
+  },
+  {
+    "id": "yrdzst",
+    "name": "杨任东竹石体",
+    "files": [
+      "yrdzst/yrdzst-Bold.ttf",
+      "yrdzst/yrdzst-Extralight.ttf",
+      "yrdzst/yrdzst-Heavy.ttf",
+      "yrdzst/yrdzst-Light.ttf",
+      "yrdzst/yrdzst-Medium.ttf",
+      "yrdzst/yrdzst-Regular.ttf",
+      "yrdzst/yrdzst-Semibold.ttf"
+    ],
+    "desc": "杨任东竹石体于2017年4月26日世界知识产权日正式发布，本字体版本为1.23。字体按照GB2312-80书写，并增补了少量常见汉字；整套字体有7个字重，共计50000余个字符。本套字体授权全社会免费商用，意味着您可以将其无限制地捆入您的商业产品中，如海报、包装、logo、网页、APP等。",
+    "official": "ttps://mp.weixin.qq.com/s/7kv3i_YEs7x9_9IrCDYvBA",
+    "license": {
+      "name": "其他协议",
+      "url": "https://mp.weixin.qq.com/s/7kv3i_YEs7x9_9IrCDYvBA"
+    }
+  },
+  {
+    "id": "opposans",
+    "name": "OPPO Sans",
+    "files": [
+      "opposans/OPPOSans-B.ttf",
+      "opposans/OPPOSans-H.ttf",
+      "opposans/OPPOSans-L.ttf",
+      "opposans/OPPOSans-M.ttf",
+      "opposans/OPPOSans-R.ttf"
+    ],
+    "desc": "OPPO Sans（含中文及西文，6 款字重）允许个人或企业免费使用，含商业用途，版权归 OPPO 广东移动通信有限公司所有。",
+    "official": "https://www.coloros.com/index/newsDetail?id=72",
+    "license": {
+      "name": "其他协议",
+      "url": "https://www.coloros.com/index/newsDetail?id=72"
+    }
+  },
+  {
+    "id": "ysxxk",
+    "name": "演示夏行楷",
+    "files": [
+      "ysxxk/ysxxk.ttf"
+    ],
+    "desc": "「演示夏行楷」是Keynote研究所的人生哥制作发布的一款毛笔字体。字稿作者是刘锡栋：中国漓江书画艺术家协会理事丨北京中国书画研究院研究员丨中国民族硬笔书法家协会会员丨中国楹联学会会员丨黑龙江楹联家协会会员丨高级政工师，已退休 该字体简体中文行楷，包含标准的6763个字符。",
+    "official": "https://mp.weixin.qq.com/s/CRnRsYu8ymlG9_oK6wmBag",
+    "license": {
+      "name": "其他协议",
+      "url": "https://mp.weixin.qq.com/s/CRnRsYu8ymlG9_oK6wmBag"
+    }
+  },
+  {
+    "id": "ysfxt",
+    "name": "演示佛系体",
+    "files": [
+      "ysfxt/ysfxt.ttf"
+    ],
+    "desc": "「演示佛系体」是由一生酷爱书法的纪国才老先生，在80岁这年亲手写了一套独具风格的字体，并授权 Keynote研究所 和 秋叶PPT 面向全社会联合发布，全渠道免费商用！",
+    "official": "https://mp.weixin.qq.com/s/iWn8SWH5ymBKmsGiHe8Yfw",
+    "license": {
+      "name": "其他协议",
+      "url": "https://mp.weixin.qq.com/s/iWn8SWH5ymBKmsGiHe8Yfw"
+    }
+  },
+  {
+    "id": "ysqhk",
+    "name": "演示秋鸿楷",
+    "files": [
+      "ysqhk/ysqhk.ttf"
+    ],
+    "desc": "「演示秋鸿楷」是Keynote研究所的人生哥制作发布的一款毛笔字体。字稿的作者是叶运鹏：高中教师丨辽宁人丨98年加入农民书画家协会。该字体简体中文楷书，包含标准的6763个字符。",
+    "official": "https://mp.weixin.qq.com/s/CRnRsYu8ymlG9_oK6wmBag",
+    "license": {
+      "name": "其他协议",
+      "url": "https://mp.weixin.qq.com/s/CRnRsYu8ymlG9_oK6wmBag"
+    }
+  },
+  {
+    "id": "yscfk",
+    "name": "演示春风楷",
+    "files": [
+      "yscfk/yscfk.ttf"
+    ],
+    "desc": "「演示春风楷」是Keynote研究所的人生哥制作发布的一款毛笔字体。字稿的作者是徐占海，军人出身，1983年入伍。每日笔耕不辍练习写字。该字体简体中文楷书，包含标准的6763个字符。",
+    "official": "https://mp.weixin.qq.com/s/CRnRsYu8ymlG9_oK6wmBag",
+    "license": {
+      "name": "其他协议",
+      "url": "https://mp.weixin.qq.com/s/CRnRsYu8ymlG9_oK6wmBag"
+    }
+  },
+  {
+    "id": "ysyrxk",
+    "name": "演示悠然小楷",
+    "files": [
+      "ysyrxk/ysyrxk.ttf"
+    ],
+    "desc": "「演示悠然小楷」是秋叶PPT联合keynote研究所推出的一款书法字体，字稿的作者是孟祥媛，一位还在大学读书的书法专业学生。\n初看「演示悠然小楷」，可能并不觉得惊艳，再品，却会发现透着质朴、率真的气息。正如尚在象牙塔中的作者本人，那是未经雕琢的拙朴书生气。接下来，一起体会悠然小楷的这股「拙气」。 悠然小楷笔画分明，结构清晰，没有过度的连笔和飞白，对阅读识别更为友好；小楷字形较小，天然拥有更大的字间距，即便作为长段文字使用，阅读上也不会有太大视觉压力； 悠然小楷的笔画力度分布均衡，起收有序，没有太过强烈的对比，自然沉劲而不漂浮；在小楷的基础上有些行楷的影子，为字体增添了灵动，但又有克制，形成停而不断、笔断意连之态；部分笔画细节可能并不完美，不够顺滑，但这份未经雕琢，又何尝不是一种难得的拙朴；所以见过很多大开大合的书法字体后，再见悠然小楷，可能没有很惊艳之感。但艳丽与喧嚣并不一定代表力量，沉劲入骨更难能可贵",
+    "official": "https://mp.weixin.qq.com/s/Q1lAIre4yJ-Zlf2CD82EPA",
+    "license": {
+      "name": "其他协议",
+      "url": "https://mp.weixin.qq.com/s/Q1lAIre4yJ-Zlf2CD82EPA"
     }
   }
 ]
