@@ -16,6 +16,6 @@ jobs:
         uses: ncipollo/release-action@v1
         with:
           allowUpdates: true
-          artifacts: "*.ttf,manifest.json"
+          artifacts: "**/*.ttf,manifest.json"
           token: ${{ secrets.ACTION_TOKEN }}
           tag: ${{ github.event.inputs.TAG || '1.0.0'}}
