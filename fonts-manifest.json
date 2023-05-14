@@ -81,6 +81,21 @@
     }
   },
   {
+    "id": "sarasa-ui",
+    "name": "Sarasa Gothic",
+    "files": [
+      "sarasa-ui/sarasa-ui-sc-regular.ttf",
+      "sarasa-ui/sarasa-ui-sc-bold.ttf",
+      "sarasa-ui/sarasa-ui-sc-semibold.ttf"
+    ],
+    "desc": "This is SARASA GOTHIC, a CJK programming font based on Iosevka and Source Han Sans.",
+    "official": "https://github.com/be5invis/Sarasa-Gothic",
+    "license": {
+      "name": "OFL-1.1",
+      "url": "https://opensource.org/licenses/OFL-1.1"
+    }
+  },
+  {
     "id": "ysxxk",
     "name": "演示夏行楷",
     "files": [
