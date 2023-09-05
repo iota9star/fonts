@@ -1,5 +1,66 @@
 [
   {
+    "id": "misans",
+    "name": "MiSans",
+    "files": [
+      "misans/MiSans-Bold.ttf",
+      "misans/MiSans-Demibold.ttf",
+      "misans/MiSans-ExtraLight.ttf",
+      "misans/MiSans-Heavy.ttf",
+      "misans/MiSans-Light.ttf",
+      "misans/MiSans-Medium.ttf",
+      "misans/MiSans-Normal.ttf",
+      "misans/MiSans-Regular.ttf",
+      "misans/MiSans-Semibold.ttf",
+      "misans/MiSans-Thin.ttf"
+    ],
+    "desc": "MIUI 13 采用全新系统字体 MiSans；笔型平直有力，设计更加简约，减少视觉负担，更有利于屏幕显示。共包含29,093个字符，支持多种语言。MiSans 提供了多种 OpenType 功能，可根据特定需求来选择不同形态的字符，例如某些标点符号可以根据周围字母的形态自动调整至合适的位置。MiSans字重齐全，层级清晰，10个字重全部开放下载，供全社会免费商用。",
+    "official": "https://web.vip.miui.com/page/info/mio/mio/detail?postId=33935854",
+    "license": {
+      "name": "其他协议",
+      "url": "https://web.vip.miui.com/page/info/mio/mio/detail?postId=33935854"
+    }
+  },
+  {
+    "id": "judousansui",
+    "name": "句读黑体 UI",
+    "files": [
+      "judousansui/judou-sans-ui-hans-bold.ttf",
+      "judousansui/judou-sans-ui-hans-bolditalic.ttf",
+      "judousansui/judou-sans-ui-hans-extralight.ttf",
+      "judousansui/judou-sans-ui-hans-extralightitalic.ttf",
+      "judousansui/judou-sans-ui-hans-heavy.ttf",
+      "judousansui/judou-sans-ui-hans-heavyitalic.ttf",
+      "judousansui/judou-sans-ui-hans-italic.ttf",
+      "judousansui/judou-sans-ui-hans-light.ttf",
+      "judousansui/judou-sans-ui-hans-lightitalic.ttf",
+      "judousansui/judou-sans-ui-hans-medium.ttf",
+      "judousansui/judou-sans-ui-hans-mediumitalic.ttf",
+      "judousansui/judou-sans-ui-hans-regular.ttf",
+      "judousansui/judou-sans-ui-hans-semilight.ttf",
+      "judousansui/judou-sans-ui-hans-semilightitalic.ttf"
+    ],
+    "desc": "句读黑体，基于思源黑体和 FiraGO 等字体，支持多种语言文字的商用免费开源黑体。",
+    "official": "https://github.com/JudouEco/JudouSans",
+    "license": {
+      "name": "OFL-1.1",
+      "url": "https://opensource.org/licenses/OFL-1.1"
+    }
+  },
+  {
+    "id": "lxgwneoxihei",
+    "name": "霞鹜新晰黑",
+    "files": [
+      "lxgwneoxihei/LXGWNeoXiHei.ttf"
+    ],
+    "desc": "一款基于 IPAex黑体 的中文开源字体，是将日本写法的字体改造成中国大陆规范写法的尝试。",
+    "official": "https://github.com/lxgw/LxgwNeoXiHei",
+    "license": {
+      "name": "IPA Font License 1.0",
+      "url": "https://moji.or.jp/ipafont/license/"
+    }
+  },
+  {
     "id": "hmsans",
     "name": "HarmonyOS Sans",
     "files": [
@@ -20,9 +81,9 @@
     "id": "xwwk",
     "name": "霞鹜文楷",
     "files": [
-      "xwwk/xwwk-Bold.ttf",
-      "xwwk/xwwk-Light.ttf",
-      "xwwk/xwwk-Regular.ttf"
+      "xwwk/LXGWWenKaiLite-Bold.ttf",
+      "xwwk/LXGWWenKaiLite-Light.ttf",
+      "xwwk/LXGWWenKaiLite-Regular.ttf"
     ],
     "desc": "An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。",
     "official": "https://github.com/lxgw/LxgwWenKai",
@@ -153,7 +214,7 @@
     "files": [
       "ysyrxk/ysyrxk.ttf"
     ],
-    "desc": "「演示悠然小楷」是秋叶PPT联合keynote研究所推出的一款书法字体，字稿的作者是孟祥媛，一位还在大学读书的书法专业学生。\n初看「演示悠然小楷」，可能并不觉得惊艳，再品，却会发现透着质朴、率真的气息。正如尚在象牙塔中的作者本人，那是未经雕琢的拙朴书生气。接下来，一起体会悠然小楷的这股「拙气」。 悠然小楷笔画分明，结构清晰，没有过度的连笔和飞白，对阅读识别更为友好；小楷字形较小，天然拥有更大的字间距，即便作为长段文字使用，阅读上也不会有太大视觉压力； 悠然小楷的笔画力度分布均衡，起收有序，没有太过强烈的对比，自然沉劲而不漂浮；在小楷的基础上有些行楷的影子，为字体增添了灵动，但又有克制，形成停而不断、笔断意连之态；部分笔画细节可能并不完美，不够顺滑，但这份未经雕琢，又何尝不是一种难得的拙朴；所以见过很多大开大合的书法字体后，再见悠然小楷，可能没有很惊艳之感。但艳丽与喧嚣并不一定代表力量，沉劲入骨更难能可贵",
+    "desc": "「演示悠然小楷」是秋叶PPT联合keynote研究所推出的一款书法字体，字稿的作者是孟祥媛，一位还在大学读书的书法专业学生。初看「演示悠然小楷」，可能并不觉得惊艳，再品，却会发现透着质朴、率真的气息。正如尚在象牙塔中的作者本人，那是未经雕琢的拙朴书生气。接下来，一起体会悠然小楷的这股「拙气」。 悠然小楷笔画分明，结构清晰，没有过度的连笔和飞白，对阅读识别更为友好；小楷字形较小，天然拥有更大的字间距，即便作为长段文字使用，阅读上也不会有太大视觉压力； 悠然小楷的笔画力度分布均衡，起收有序，没有太过强烈的对比，自然沉劲而不漂浮；在小楷的基础上有些行楷的影子，为字体增添了灵动，但又有克制，形成停而不断、笔断意连之态；部分笔画细节可能并不完美，不够顺滑，但这份未经雕琢，又何尝不是一种难得的拙朴；所以见过很多大开大合的书法字体后，再见悠然小楷，可能没有很惊艳之感。但艳丽与喧嚣并不一定代表力量，沉劲入骨更难能可贵",
     "official": "https://mp.weixin.qq.com/s/Q1lAIre4yJ-Zlf2CD82EPA",
     "license": {
       "name": "其他协议",
