@@ -25,20 +25,10 @@
     "id": "judousansui",
     "name": "句读黑体 UI",
     "files": [
-      "judousansui/judou-sans-ui-hans-bold.ttf",
-      "judousansui/judou-sans-ui-hans-bolditalic.ttf",
-      "judousansui/judou-sans-ui-hans-extralight.ttf",
-      "judousansui/judou-sans-ui-hans-extralightitalic.ttf",
-      "judousansui/judou-sans-ui-hans-heavy.ttf",
-      "judousansui/judou-sans-ui-hans-heavyitalic.ttf",
-      "judousansui/judou-sans-ui-hans-italic.ttf",
       "judousansui/judou-sans-ui-hans-light.ttf",
-      "judousansui/judou-sans-ui-hans-lightitalic.ttf",
-      "judousansui/judou-sans-ui-hans-medium.ttf",
-      "judousansui/judou-sans-ui-hans-mediumitalic.ttf",
       "judousansui/judou-sans-ui-hans-regular.ttf",
-      "judousansui/judou-sans-ui-hans-semilight.ttf",
-      "judousansui/judou-sans-ui-hans-semilightitalic.ttf"
+      "judousansui/judou-sans-ui-hans-medium.ttf",
+      "judousansui/judou-sans-ui-hans-bold.ttf"
     ],
     "desc": "句读黑体，基于思源黑体和 FiraGO 等字体，支持多种语言文字的商用免费开源黑体。",
     "official": "https://github.com/JudouEco/JudouSans",
@@ -49,11 +39,11 @@
   },
   {
     "id": "lxgwneoxihei",
-    "name": "霞鹜新晰黑",
+    "name": "霞鹜新晰黑 屏幕阅读版",
     "files": [
-      "lxgwneoxihei/LXGWNeoXiHei.ttf"
+      "lxgwneoxihei/LXGWNeoXiHeiScreen.ttf"
     ],
-    "desc": "一款基于 IPAex黑体 的中文开源字体，是将日本写法的字体改造成中国大陆规范写法的尝试。",
+    "desc": "一款基于 IPAex 黑体的中文开源字体，是将日本写法的字体改造成中国大陆规范写法的尝试。",
     "official": "https://github.com/lxgw/LxgwNeoXiHei",
     "license": {
       "name": "IPA Font License 1.0",
@@ -142,11 +132,11 @@
     "id": "opposans",
     "name": "OPPO Sans",
     "files": [
-      "opposans/OPPOSans-B.ttf",
-      "opposans/OPPOSans-H.ttf",
-      "opposans/OPPOSans-L.ttf",
-      "opposans/OPPOSans-M.ttf",
-      "opposans/OPPOSans-R.ttf"
+      "opposans/OPlusSans3-ExtraLight.ttf",
+      "opposans/OPlusSans3-Light.ttf",
+      "opposans/OPlusSans3-Regular.ttf",
+      "opposans/OPlusSans3-Medium.ttf",
+      "opposans/OPlusSans3-Bold.ttf"
     ],
     "desc": "OPPO Sans（含中文及西文，6 款字重）允许个人或企业免费使用，含商业用途，版权归 OPPO 广东移动通信有限公司所有。",
     "official": "https://www.coloros.com/index/newsDetail?id=72",
