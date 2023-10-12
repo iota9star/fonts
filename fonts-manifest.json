@@ -56,7 +56,7 @@
     "files": [
       "lxgwneozhisong/LXGWNeoZhiSongFusion.ttf"
     ],
-    "desc": "「霞鹜新致宋」与「IPAmj 明朝」「一点明体」「谜乃明朝」的合并字体。「霞鹜新致宋」为基于 IPAmj 明朝的中文开源字体，是将日本写法的字体改造成中国大陆规范写法的尝试。",
+    "desc": "「霞鹜新致宋」与「IPAmj 明朝」「一点明体」「谜乃明朝」的合并字体。「霞鹜新致宋」为基于 IPAmj明朝 的中文开源字体，是将日本写法的字体改造成中国大陆规范写法的尝试。",
     "official": "https://github.com/lxgw/LxgwNeoZhiSong-Fusion",
     "license": {
       "name": "IPA Font License 1.0",
