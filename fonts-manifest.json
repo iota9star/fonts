@@ -41,7 +41,7 @@
     "id": "lxgwneoxihei",
     "name": "霞鹜新晰黑 屏幕阅读版",
     "files": [
-      "lxgwneoxihei/LXGWNeoXiHeiScreen.ttf"
+      "lxgwneoxihei/LXGWNeoXiHeiScreenFull.ttf"
     ],
     "desc": "一款基于 IPAex 黑体的中文开源字体，是将日本写法的字体改造成中国大陆规范写法的尝试。",
     "official": "https://github.com/lxgw/LxgwNeoXiHei",
