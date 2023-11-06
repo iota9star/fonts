@@ -14,11 +14,11 @@
       "misans/MiSans-Semibold.ttf",
       "misans/MiSans-Thin.ttf"
     ],
-    "desc": "MIUI 13 采用全新系统字体 MiSans；笔型平直有力，设计更加简约，减少视觉负担，更有利于屏幕显示。共包含29,093个字符，支持多种语言。MiSans 提供了多种 OpenType 功能，可根据特定需求来选择不同形态的字符，例如某些标点符号可以根据周围字母的形态自动调整至合适的位置。MiSans字重齐全，层级清晰，10个字重全部开放下载，供全社会免费商用。",
-    "official": "https://web.vip.miui.com/page/info/mio/mio/detail?postId=33935854",
+    "desc": "MiSans Global 是由小米主导，联合蒙纳字库、汉仪字库共同打造的全球语言字体定制项目。这是一个庞大的字体家族，涵盖 20 多种书写系统，支持 600 多种语言，字符数量超过 10 万个。作为 Xiaomi HyperOS 系统默认字体，我们以简约/清晰，人文/易读，统一的视觉风格为基本原则出发，构建多语言信息体验一致性，旨在帮助为 Xiaomi HyperOS 提供互联的通用体验。",
+    "official": "https://hyperos.mi.com/font",
     "license": {
       "name": "其他协议",
-      "url": "https://web.vip.miui.com/page/info/mio/mio/detail?postId=33935854"
+      "url": "https://hyperos.mi.com/font/faq"
     }
   },
   {
