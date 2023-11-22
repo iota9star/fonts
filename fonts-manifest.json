@@ -22,6 +22,25 @@
     }
   },
   {
+    "id": "alibabapuhuiti3",
+    "name": "阿里巴巴普惠体 3.0",
+    "files": [
+      "alibabapuhuiti3/AlibabaPuHuiTi-3-35-Thin.ttf",
+      "alibabapuhuiti3/AlibabaPuHuiTi-3-45-Light.ttf",
+      "alibabapuhuiti3/AlibabaPuHuiTi-3-55-Regular.ttf",
+      "alibabapuhuiti3/AlibabaPuHuiTi-3-65-Medium.ttf",
+      "alibabapuhuiti3/AlibabaPuHuiTi-3-75-SemiBold.ttf",
+      "alibabapuhuiti3/AlibabaPuHuiTi-3-85-Bold.ttf",
+      "alibabapuhuiti3/AlibabaPuHuiTi-3-95-ExtraBold.ttf"
+    ],
+    "desc": "阿里巴巴普惠体是一套全球永久免费正版商用的字体家族。阿里巴巴普惠体 3.0 为一套符合新国家标准 GB18030-2022 的简体中文字符集，包含 GB18030-2022 强制规范三个实现级别：实现级别 1 + 实现级别 2 标准规格的 7 字重、实现级别 3 标准规格的 Regular 单一字重。7 字重共 194460 个全形汉字。包含拉丁字母、希腊字母、西里尔字母、标点符号。",
+    "official": "https://www.alibabafonts.com/",
+    "license": {
+      "name": "其他协议",
+      "url": "https://www.yuque.com/yiguang-wkqc2/puhuiti/nus9wiinq4aeiegy"
+    }
+  },
+  {
     "id": "judousansui",
     "name": "句读黑体 UI",
     "files": [
