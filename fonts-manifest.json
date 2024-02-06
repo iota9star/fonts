@@ -83,6 +83,19 @@
     }
   },
   {
+    "id": "chillroundf",
+    "name": "寒蝉全圆体",
+    "files": [
+      "chillroundf/ChillRoundF.ttf"
+    ],
+    "desc": "寒蝉全圆体，基于《小杉圆体》《justfont 粉圆》《猫啃糖圆体》进行调整的圆体字型，更新为超大字符数量的字符集，使其应用范围更广。综合考量各版本字形的使用并挑选合理的字形。修正部分字形和补充部分字形。调整到更均衡的排版。",
+    "official": "https://github.com/Warren2060/ChillRound",
+    "license": {
+      "name": "OFL-1.1",
+      "url": "https://opensource.org/licenses/OFL-1.1"
+    }
+  },
+  {
     "id": "hmsans",
     "name": "HarmonyOS Sans",
     "files": [
@@ -165,15 +178,31 @@
     }
   },
   {
+    "id": "sarasa-gothic",
+    "name": "更纱黑体",
+    "files": [
+      "sarasa-gothic/SarasaGothicSC-Light.ttf",
+      "sarasa-gothic/SarasaGothicSC-Regular.ttf",
+      "sarasa-gothic/SarasaGothicSC-SemiBold.ttf",
+      "sarasa-gothic/SarasaGothicSC-Bold.ttf"
+    ],
+    "desc": "更纱黑体使用全宽引号和比例数字。",
+    "official": "https://github.com/be5invis/Sarasa-Gothic",
+    "license": {
+      "name": "OFL-1.1",
+      "url": "https://opensource.org/licenses/OFL-1.1"
+    }
+  },
+  {
     "id": "sarasa-ui",
-    "name": "Sarasa Gothic",
+    "name": "更纱黑体 UI",
     "files": [
       "sarasa-ui/SarasaUiSC-Light.ttf",
       "sarasa-ui/SarasaUiSC-Regular.ttf",
       "sarasa-ui/SarasaUiSC-SemiBold.ttf",
       "sarasa-ui/SarasaUiSC-Bold.ttf"
     ],
-    "desc": "This is SARASA GOTHIC, a CJK programming font based on Iosevka and Source Han Sans.",
+    "desc": "更纱黑体 UI 使用缩进引号和等宽数字。",
     "official": "https://github.com/be5invis/Sarasa-Gothic",
     "license": {
       "name": "OFL-1.1",
