@@ -275,14 +275,14 @@
     }
   },
   {
-    "id": "fanwunhak",
-    "name": "繁媛黑体",
+    "id": "ibmplextc",
+    "name": "IBM Plex Sans TC",
     "files": [
-      "fanwunhak/FanWunHak-R.ttf",
-      "fanwunhak/FanWunHak-B.ttf"
+      "ibmplextc/IBMPlexSansTC-Text.otf",
+      "ibmplextc/IBMPlexSansTC-Bold.otf"
     ],
-    "desc": "繁媛黑体是基于源样黑体开发的简转繁字体，能处理一简对多繁。",
-    "official": "https://github.com/ayaka14732/FanWunHak",
+    "desc": "IBM Plex is IBM’s new typeface. It’s global, it’s versatile and it’s distinctly IBM.",
+    "official": "https://www.ibm.com/plex/",
     "license": {
       "name": "OFL-1.1",
       "url": "https://opensource.org/licenses/OFL-1.1"
