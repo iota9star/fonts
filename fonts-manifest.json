@@ -278,13 +278,8 @@
     "id": "fanwunhak",
     "name": "繁媛黑体",
     "files": [
-      "fanwunhak/FanWunHak-EL.ttf",
-      "fanwunhak/FanWunHak-L.ttf",
-      "fanwunhak/FanWunHak-N.ttf",
       "fanwunhak/FanWunHak-R.ttf",
-      "fanwunhak/FanWunHak-M.ttf",
-      "fanwunhak/FanWunHak-B.ttf",
-      "fanwunhak/FanWunHak-H.ttf"
+      "fanwunhak/FanWunHak-B.ttf"
     ],
     "desc": "繁媛黑体是基于源样黑体开发的简转繁字体，能处理一简对多繁。",
     "official": "https://github.com/ayaka14732/FanWunHak",
