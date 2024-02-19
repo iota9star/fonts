@@ -275,6 +275,22 @@
     }
   },
   {
+    "id": "advocateancientrounded",
+    "name": "尙古圆体",
+    "files": [
+      "advocateancientrounded/AdvocateAncientRoundedST-Light.ttf",
+      "advocateancientrounded/AdvocateAncientRoundedST-Regular.ttf",
+      "advocateancientrounded/AdvocateAncientRoundedST-Medium.ttf",
+      "advocateancientrounded/AdvocateAncientRoundedST-Bold.ttf"
+    ],
+    "desc": "基于思源的传承字形（旧字形）字体。",
+    "official": "https://github.com/GuiWonder/SourceHanToClassic/",
+    "license": {
+      "name": "OFL-1.1",
+      "url": "https://opensource.org/licenses/OFL-1.1"
+    }
+  },
+  {
     "id": "ibmplextc",
     "name": "IBM Plex Sans TC",
     "files": [
