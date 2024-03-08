@@ -53,7 +53,7 @@
     "official": "https://github.com/JudouEco/JudouSans",
     "license": {
       "name": "OFL-1.1",
-      "url": "https://opensource.org/licenses/OFL-1.1"
+      "url": "https://openfontlicense.org/open-font-license-official-text/"
     }
   },
   {
@@ -92,7 +92,7 @@
     "official": "https://github.com/Warren2060/ChillRound",
     "license": {
       "name": "OFL-1.1",
-      "url": "https://opensource.org/licenses/OFL-1.1"
+      "url": "https://openfontlicense.org/open-font-license-official-text/"
     }
   },
   {
@@ -125,7 +125,7 @@
     "official": "https://github.com/lxgw/LxgwWenKai",
     "license": {
       "name": "OFL-1.1",
-      "url": "https://opensource.org/licenses/OFL-1.1"
+      "url": "https://openfontlicense.org/open-font-license-official-text/"
     }
   },
   {
@@ -190,7 +190,7 @@
     "official": "https://github.com/be5invis/Sarasa-Gothic",
     "license": {
       "name": "OFL-1.1",
-      "url": "https://opensource.org/licenses/OFL-1.1"
+      "url": "https://openfontlicense.org/open-font-license-official-text/"
     }
   },
   {
@@ -206,7 +206,7 @@
     "official": "https://github.com/be5invis/Sarasa-Gothic",
     "license": {
       "name": "OFL-1.1",
-      "url": "https://opensource.org/licenses/OFL-1.1"
+      "url": "https://openfontlicense.org/open-font-license-official-text/"
     }
   },
   {
@@ -287,21 +287,26 @@
     "official": "https://github.com/GuiWonder/SourceHanToClassic/",
     "license": {
       "name": "OFL-1.1",
-      "url": "https://opensource.org/licenses/OFL-1.1"
+      "url": "https://openfontlicense.org/open-font-license-official-text/"
     }
   },
   {
-    "id": "ibmplextc",
-    "name": "IBM Plex Sans TC",
+    "id": "fanthinkgrotesk",
+    "name": "繁 Think 黑",
     "files": [
-      "ibmplextc/IBMPlexSansTC-Text.otf",
-      "ibmplextc/IBMPlexSansTC-Bold.otf"
+      "fanthinkgrotesk/FanThinkGrotesk-Thin.otf",
+      "fanthinkgrotesk/FanThinkGrotesk-ExtraLight.otf",
+      "fanthinkgrotesk/FanThinkGrotesk-Light.otf",
+      "fanthinkgrotesk/FanThinkGrotesk-Text.otf",
+      "fanthinkgrotesk/FanThinkGrotesk-Medium.otf",
+      "fanthinkgrotesk/FanThinkGrotesk-SemiBold.otf",
+      "fanthinkgrotesk/FanThinkGrotesk-Bold.otf"
     ],
-    "desc": "IBM Plex is IBM’s new typeface. It’s global, it’s versatile and it’s distinctly IBM.",
-    "official": "https://www.ibm.com/plex/",
+    "desc": "繁 Think 黑是一套基於 IBM Plex Sans TC 的自動簡轉繁字體。簡轉繁代碼來自 GuiWonder。",
+    "official": "https://github.com/pkj-l/FanThinkGrotesk",
     "license": {
       "name": "OFL-1.1",
-      "url": "https://opensource.org/licenses/OFL-1.1"
+      "url": "https://openfontlicense.org/open-font-license-official-text/"
     }
   }
 ]
