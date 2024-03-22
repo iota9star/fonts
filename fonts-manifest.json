@@ -115,14 +115,29 @@
   },
   {
     "id": "xwwk",
-    "name": "霞鹜文楷",
+    "name": "霞鹜文楷 Lite",
     "files": [
       "xwwk/LXGWWenKaiLite-Bold.ttf",
       "xwwk/LXGWWenKaiLite-Light.ttf",
       "xwwk/LXGWWenKaiLite-Regular.ttf"
     ],
     "desc": "An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。",
-    "official": "https://github.com/lxgw/LxgwWenKai",
+    "official": "https://github.com/lxgw/LxgwWenKai-Lite",
+    "license": {
+      "name": "OFL-1.1",
+      "url": "https://openfontlicense.org/open-font-license-official-text/"
+    }
+  },
+  {
+    "id": "xwwkgb",
+    "name": "霞鹜文楷 GB Lite",
+    "files": [
+      "xwwkgb/LXGWWenKaiGBLite-Light.ttf",
+      "xwwkgb/LXGWWenKaiGBLite-Regular.ttf",
+      "xwwkgb/LXGWWenKaiGBLite-Bold.ttf"
+    ],
+    "desc": "在霞鹜文楷的基础上，尽可能严格按照中国大陆的字形标准（G 源字形）对字形、笔形作进一步修改。",
+    "official": "https://github.com/lxgw/LxgwWenkaiGB-Lite",
     "license": {
       "name": "OFL-1.1",
       "url": "https://openfontlicense.org/open-font-license-official-text/"
