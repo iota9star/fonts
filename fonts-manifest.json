@@ -44,10 +44,10 @@
     "id": "judousansui",
     "name": "句读黑体 UI",
     "files": [
-      "judousansui/judou-sans-ui-hans-light.ttf",
-      "judousansui/judou-sans-ui-hans-regular.ttf",
-      "judousansui/judou-sans-ui-hans-medium.ttf",
-      "judousansui/judou-sans-ui-hans-bold.ttf"
+      "judousansui/JudouSansUiHans-Light.ttf",
+      "judousansui/JudouSansUiHans-Regular.ttf",
+      "judousansui/JudouSansUiHans-Medium.ttf",
+      "judousansui/JudouSansUiHans-Bold.ttf"
     ],
     "desc": "句读黑体，基于思源黑体和 FiraGO 等字体，支持多种语言文字的商用免费开源黑体。",
     "official": "https://github.com/JudouEco/JudouSans",
@@ -157,6 +157,19 @@
     }
   },
   {
+    "id": "knmaiyuan",
+    "name": "荆南麦圆体",
+    "files": [
+      "knmaiyuan/KNMaiyuan-Regular.ttf"
+    ],
+    "desc": "麦圆体萌系可爱的手写风格，字体每个笔画的粗细相同，两端圆润饱满，凸显可爱风格。虽是手写字体，笔画分明没有细小的连接，使字体更加清新俏皮。无论是做食品类还是母婴类，抑或是儿童类的设计都特别适合。",
+    "official": "https://github.com/maoken-fonts/KNMaiyuan",
+    "license": {
+      "name": "OFL-1.1",
+      "url": "https://openfontlicense.org/open-font-license-official-text/"
+    }
+  },
+  {
     "id": "yrdzst",
     "name": "杨任东竹石体",
     "files": [
@@ -177,7 +190,7 @@
   },
   {
     "id": "opposans",
-    "name": "OPPO Sans",
+    "name": "OPlusSans",
     "files": [
       "opposans/OPlusSans3-ExtraLight.ttf",
       "opposans/OPlusSans3-Light.ttf",
@@ -185,7 +198,7 @@
       "opposans/OPlusSans3-Medium.ttf",
       "opposans/OPlusSans3-Bold.ttf"
     ],
-    "desc": "OPPO Sans（含中文及西文，6 款字重）允许个人或企业免费使用，含商业用途，版权归 OPPO 广东移动通信有限公司所有。",
+    "desc": "OPlusSans（原名 OPPOSans）允许个人或企业免费使用，含商业用途，版权归 OPPO 广东移动通信有限公司所有。",
     "official": "https://www.coloros.com/index/newsDetail?id=72",
     "license": {
       "name": "其他协议",
