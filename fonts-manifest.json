@@ -121,7 +121,7 @@
       "xwwk/LXGWWenKaiLite-Light.ttf",
       "xwwk/LXGWWenKaiLite-Regular.ttf"
     ],
-    "desc": "An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。",
+    "desc": "An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体，保留「亠」「宀」等起笔的直点和「㇙」「㇜」等笔画折角处断笔设计等。",
     "official": "https://github.com/lxgw/LxgwWenKai-Lite",
     "license": {
       "name": "OFL-1.1",
