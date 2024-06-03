@@ -170,6 +170,32 @@
     }
   },
   {
+    "id": "mizukigothic",
+    "name": "水木黑体",
+    "files": [
+      "mizukigothic/MizukiGothic-Regular.ttf"
+    ],
+    "desc": "一个还原未被楷化的大陆字形项目。",
+    "official": "https://github.com/enderseven1/Mizuki-Gothic",
+    "license": {
+      "name": "IPA Font License 1.0",
+      "url": "https://moji.or.jp/ipafont/license/"
+    }
+  },
+  {
+    "id": "mizukiming",
+    "name": "水木明体",
+    "files": [
+      "mizukiming/MizukiMing-Regular.ttf"
+    ],
+    "desc": "致力于打造印刷体风格字形的项目。",
+    "official": "https://github.com/enderseven1/Mizuki-Ming/",
+    "license": {
+      "name": "IPA Font License 1.0",
+      "url": "https://moji.or.jp/ipafont/license/"
+    }
+  },  
+  {
     "id": "yrdzst",
     "name": "杨任东竹石体",
     "files": [
