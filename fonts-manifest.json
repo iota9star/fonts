@@ -12,7 +12,8 @@
       "misans/MiSans-Normal.ttf",
       "misans/MiSans-Regular.ttf",
       "misans/MiSans-Semibold.ttf",
-      "misans/MiSans-Thin.ttf"
+      "misans/MiSans-Thin.ttf",
+      "misans/MiSans-L3.otf"
     ],
     "desc": "MiSans Global 是由小米主导，联合蒙纳字库、汉仪字库共同打造的全球语言字体定制项目。这是一个庞大的字体家族，涵盖 20 多种书写系统，支持 600 多种语言，字符数量超过 10 万个。作为 Xiaomi HyperOS 系统默认字体，我们以简约/清晰，人文/易读，统一的视觉风格为基本原则出发，构建多语言信息体验一致性，旨在帮助为 Xiaomi HyperOS 提供互联的通用体验。",
     "official": "https://hyperos.mi.com/font",
@@ -60,10 +61,10 @@
     "id": "lxgwneoxihei",
     "name": "霞鹜新晰黑 屏幕阅读版",
     "files": [
-      "lxgwneoxihei/LXGWNeoXiHeiScreenFull.ttf"
+      "lxgwneoxihei/LXGWNeoXiHeiScreen.ttf"
     ],
     "desc": "一款基于 IPAex 黑体的中文开源字体，是将日本写法的字体改造成中国大陆规范写法的尝试。",
-    "official": "https://github.com/lxgw/LxgwNeoXiHei",
+    "official": "https://github.com/lxgw/LxgwNeoXiZhi-Screen",
     "license": {
       "name": "IPA Font License 1.0",
       "url": "https://moji.or.jp/ipafont/license/"
@@ -71,12 +72,12 @@
   },
   {
     "id": "lxgwneozhisong",
-    "name": "霞鹜新致宋 融合",
+    "name": "霞鹜新致宋 屏幕阅读版",
     "files": [
-      "lxgwneozhisong/LXGWNeoZhiSongFusion.ttf"
+      "lxgwneozhisong/LXGWNeoZhiSongScreen.ttf"
     ],
-    "desc": "「霞鹜新致宋」与「IPAmj 明朝」「一点明体」「谜乃明朝」的合并字体。「霞鹜新致宋」为基于 IPAmj明朝 的中文开源字体，是将日本写法的字体改造成中国大陆规范写法的尝试。",
-    "official": "https://github.com/lxgw/LxgwNeoZhiSong-Fusion",
+    "desc": "基于「IPAex明朝」「IPAmj明朝」的中文开源字体，是将日本写法的字体改造成中国大陆规范写法的尝试。",
+    "official": "https://github.com/lxgw/LxgwNeoXiZhi-Screen",
     "license": {
       "name": "IPA Font License 1.0",
       "url": "https://moji.or.jp/ipafont/license/"
@@ -145,15 +146,15 @@
   },
   {
     "id": "lhzt",
-    "name": "濑户字体",
+    "name": "小赖字体",
     "files": [
-      "lhzt/SetoFont-1.ttf"
+      "lhzt/XiaolaiSC-Regular.ttf"
     ],
-    "desc": "濑户字型由日本的一位业余字体设计师 瀬戸のぞみ小姐 制作。支持简体、繁体、日文，而且支援日文包含 CJK 常用汉字、平片假名、JIS第一至四级，共 30000多字，是设计师个人手书，丝毫不造作，走的是一个好人缘天然呆的路线，甚至西文也很可爱。",
-    "official": "https://store.justfont.com/fontdetail/147",
+    "desc": "一款衍生于「濑户字体」的中文手写字型。",
+    "official": "https://github.com/lxgw/kose-font",
     "license": {
-      "name": "其他协议",
-      "url": "https://store.justfont.com/fontdetail/147"
+      "name": "OFL-1.1",
+      "url": "https://openfontlicense.org/open-font-license-official-text/"
     }
   },
   {
@@ -257,6 +258,22 @@
       "sarasa-ui/SarasaUiSC-Bold.ttf"
     ],
     "desc": "更纱黑体 UI 使用缩进引号和等宽数字。",
+    "official": "https://github.com/be5invis/Sarasa-Gothic",
+    "license": {
+      "name": "OFL-1.1",
+      "url": "https://openfontlicense.org/open-font-license-official-text/"
+    }
+  },
+  {
+    "id": "sarasa-mono",
+    "name": "等距更纱黑体",
+    "files": [
+      "sarasa-mono/SarasaMonoSC-Light.ttf",
+      "sarasa-mono/SarasaMonoSC-Regular.ttf",
+      "sarasa-mono/SarasaMonoSC-SemiBold.ttf",
+      "sarasa-mono/SarasaMonoSC-Bold.ttf"
+    ],
+    "desc": "等距更纱黑体使用等宽西文《Iosevka》。",
     "official": "https://github.com/be5invis/Sarasa-Gothic",
     "license": {
       "name": "OFL-1.1",
