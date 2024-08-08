@@ -23,6 +23,45 @@
     }
   },
   {
+    "id": "tsuipita",
+    "name": "晓声通秋茄体",
+    "files": [
+      "tsuipita/ToneOZ-Tsuipita-TC.ttf"
+    ],
+    "desc": "基于随峰体扩展，开源免费可商用的的手写字型。",
+    "official": "https://toneoz.com/blog/tsuipita/",
+    "license": {
+      "name": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org/open-font-license-official-text/"
+    }
+  },
+  {
+    "id": "kaisei",
+    "name": "江城解星体",
+    "files": [
+      "kaisei/kaisei.ttf"
+    ],
+    "desc": "不同于传统的印刷，通过在右侧添加加圆型衬线，使字体左右更加平衡，同时也为字体添加了不一样的特色。",
+    "official": "https://toneoz.com/blog/tsuipita/",
+    "license": {
+      "name": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org/open-font-license-official-text/"
+    }
+  },
+  {
+    "id": "xuandongkaishu",
+    "name": "玄冬楷书",
+    "files": [
+      "xuandongkaishu/XuandongKaishu.ttf"
+    ],
+    "desc": "基于开源字体《马善政毛笔楷书》的拓展字体。在原版的基础之上修复了错误的字形并添加竖排排版的特性。",
+    "official": "https://github.com/Skr-ZERO/Xuandong-Kaishu",
+    "license": {
+      "name": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org/open-font-license-official-text/"
+    }
+  },
+  {
     "id": "alibabapuhuiti3",
     "name": "阿里巴巴普惠体 3.0",
     "files": [
@@ -53,7 +92,7 @@
     "desc": "句读黑体，基于思源黑体和 FiraGO 等字体，支持多种语言文字的商用免费开源黑体。",
     "official": "https://github.com/JudouEco/JudouSans",
     "license": {
-      "name": "OFL-1.1",
+      "name": "SIL OFL 1.1",
       "url": "https://openfontlicense.org/open-font-license-official-text/"
     }
   },
@@ -92,7 +131,7 @@
     "desc": "寒蝉全圆体，基于《小杉圆体》《justfont 粉圆》《猫啃糖圆体》进行调整的圆体字型，更新为超大字符数量的字符集，使其应用范围更广。综合考量各版本字形的使用并挑选合理的字形。修正部分字形和补充部分字形。调整到更均衡的排版。",
     "official": "https://github.com/Warren2060/ChillRound",
     "license": {
-      "name": "OFL-1.1",
+      "name": "SIL OFL 1.1",
       "url": "https://openfontlicense.org/open-font-license-official-text/"
     }
   },
@@ -125,7 +164,7 @@
     "desc": "An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体，保留「亠」「宀」等起笔的直点和「㇙」「㇜」等笔画折角处断笔设计等。",
     "official": "https://github.com/lxgw/LxgwWenKai-Lite",
     "license": {
-      "name": "OFL-1.1",
+      "name": "SIL OFL 1.1",
       "url": "https://openfontlicense.org/open-font-license-official-text/"
     }
   },
@@ -140,7 +179,7 @@
     "desc": "在霞鹜文楷的基础上，尽可能严格按照中国大陆的字形标准（G 源字形）对字形、笔形作进一步修改。",
     "official": "https://github.com/lxgw/LxgwWenkaiGB-Lite",
     "license": {
-      "name": "OFL-1.1",
+      "name": "SIL OFL 1.1",
       "url": "https://openfontlicense.org/open-font-license-official-text/"
     }
   },
@@ -153,7 +192,7 @@
     "desc": "一款衍生于「濑户字体」的中文手写字型。",
     "official": "https://github.com/lxgw/kose-font",
     "license": {
-      "name": "OFL-1.1",
+      "name": "SIL OFL 1.1",
       "url": "https://openfontlicense.org/open-font-license-official-text/"
     }
   },
@@ -166,7 +205,7 @@
     "desc": "麦圆体萌系可爱的手写风格，字体每个笔画的粗细相同，两端圆润饱满，凸显可爱风格。虽是手写字体，笔画分明没有细小的连接，使字体更加清新俏皮。无论是做食品类还是母婴类，抑或是儿童类的设计都特别适合。",
     "official": "https://github.com/maoken-fonts/KNMaiyuan",
     "license": {
-      "name": "OFL-1.1",
+      "name": "SIL OFL 1.1",
       "url": "https://openfontlicense.org/open-font-license-official-text/"
     }
   },
@@ -244,7 +283,7 @@
     "desc": "更纱黑体使用全宽引号和比例数字。",
     "official": "https://github.com/be5invis/Sarasa-Gothic",
     "license": {
-      "name": "OFL-1.1",
+      "name": "SIL OFL 1.1",
       "url": "https://openfontlicense.org/open-font-license-official-text/"
     }
   },
@@ -260,7 +299,7 @@
     "desc": "更纱黑体 UI 使用缩进引号和等宽数字。",
     "official": "https://github.com/be5invis/Sarasa-Gothic",
     "license": {
-      "name": "OFL-1.1",
+      "name": "SIL OFL 1.1",
       "url": "https://openfontlicense.org/open-font-license-official-text/"
     }
   },
@@ -276,7 +315,7 @@
     "desc": "等距更纱黑体使用等宽西文《Iosevka》。",
     "official": "https://github.com/be5invis/Sarasa-Gothic",
     "license": {
-      "name": "OFL-1.1",
+      "name": "SIL OFL 1.1",
       "url": "https://openfontlicense.org/open-font-license-official-text/"
     }
   },
@@ -357,7 +396,7 @@
     "desc": "基于思源的传承字形（旧字形）字体。",
     "official": "https://github.com/GuiWonder/SourceHanToClassic/",
     "license": {
-      "name": "OFL-1.1",
+      "name": "SIL OFL 1.1",
       "url": "https://openfontlicense.org/open-font-license-official-text/"
     }
   },
@@ -376,7 +415,7 @@
     "desc": "繁 Think 黑是一套基於 IBM Plex Sans TC 的自動簡轉繁字體。簡轉繁代碼來自 GuiWonder。",
     "official": "https://github.com/pkj-l/FanThinkGrotesk",
     "license": {
-      "name": "OFL-1.1",
+      "name": "SIL OFL 1.1",
       "url": "https://openfontlicense.org/open-font-license-official-text/"
     }
   }
