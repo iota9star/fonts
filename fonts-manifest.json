@@ -424,5 +424,18 @@
       "name": "SIL OFL 1.1",
       "url": "https://openfontlicense.org/open-font-license-official-text/"
     }
+  },
+  {
+    "id": "zzztestVF",
+    "name": "VF Test",
+    "files": [
+      "zzztestVF/SourceHanSansCN-VF.ttf"
+    ],
+    "desc": "VF Test",
+    "official": "https://mirrors.tuna.tsinghua.edu.cn/adobe-fonts/source-han-sans/Variable/TTF/Subset/",
+    "license": {
+      "name": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org/open-font-license-official-text/"
+    }
   }
 ]
