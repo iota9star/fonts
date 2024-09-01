@@ -4,14 +4,10 @@
     "name": "MiSans",
     "files": [
       "misans/MiSans-Bold.ttf",
-      "misans/MiSans-Demibold.ttf",
-      "misans/MiSans-ExtraLight.ttf",
       "misans/MiSans-Heavy.ttf",
       "misans/MiSans-Light.ttf",
       "misans/MiSans-Medium.ttf",
-      "misans/MiSans-Normal.ttf",
       "misans/MiSans-Regular.ttf",
-      "misans/MiSans-Semibold.ttf",
       "misans/MiSans-Thin.ttf",
       "misans/MiSans-L3.otf"
     ],
@@ -20,6 +16,19 @@
     "license": {
       "name": "其他协议",
       "url": "https://hyperos.mi.com/font/faq"
+    }
+  },
+  {
+    "id": "childfunsans",
+    "name": "游趣体",
+    "files": [
+      "childfunsans/ChildFunSans-Demo.ttf"
+    ],
+    "desc": "一款开源简体中文字体，基于 Fontworks 的 Stick 衍生。",
+    "official": "https://github.com/Des-Magmeta/ChildFunSans",
+    "license": {
+      "name": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org/open-font-license-official-text/"
     }
   },
   {
@@ -65,12 +74,9 @@
     "id": "alibabapuhuiti3",
     "name": "阿里巴巴普惠体 3.0",
     "files": [
-      "alibabapuhuiti3/AlibabaPuHuiTi-3-35-Thin.ttf",
       "alibabapuhuiti3/AlibabaPuHuiTi-3-45-Light.ttf",
       "alibabapuhuiti3/AlibabaPuHuiTi-3-55-Regular.ttf",
-      "alibabapuhuiti3/AlibabaPuHuiTi-3-65-Medium.ttf",
       "alibabapuhuiti3/AlibabaPuHuiTi-3-75-SemiBold.ttf",
-      "alibabapuhuiti3/AlibabaPuHuiTi-3-85-Bold.ttf",
       "alibabapuhuiti3/AlibabaPuHuiTi-3-95-ExtraBold.ttf"
     ],
     "desc": "阿里巴巴普惠体是一套全球永久免费正版商用的字体家族。阿里巴巴普惠体 3.0 为一套符合新国家标准 GB18030-2022 的简体中文字符集，包含 GB18030-2022 强制规范三个实现级别：实现级别 1 + 实现级别 2 标准规格的 7 字重、实现级别 3 标准规格的 Regular 单一字重。7 字重共 194460 个全形汉字。包含拉丁字母、希腊字母、西里尔字母、标点符号。",
