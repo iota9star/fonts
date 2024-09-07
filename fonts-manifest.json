@@ -424,5 +424,31 @@
       "name": "SIL OFL 1.1",
       "url": "https://openfontlicense.org/open-font-license-official-text/"
     }
+  },
+  {
+    "id": "ipagothic",
+    "name": "IPAGothic",
+    "files": [
+      "ipagothic/ipag.ttf"
+    ],
+    "desc": "应 IPA 许可证要求，增加 IPA 原版字体以允许用户“替换回原始字体”。",
+    "official": "https://moji.or.jp/ipafont/ipa00303/",
+    "license": {
+      "name": "IPA Font License 1.0",
+      "url": "https://moji.or.jp/ipafont/license/"
+    }
+  },
+  {
+    "id": "ipamincho",
+    "name": "IPAMincho",
+    "files": [
+      "ipamincho/ipam.ttf"
+    ],
+    "desc": "应 IPA 许可证要求，增加 IPA 原版字体以允许用户“替换回原始字体”。",
+    "official": "https://moji.or.jp/ipafont/ipa00303/",
+    "license": {
+      "name": "IPA Font License 1.0",
+      "url": "https://moji.or.jp/ipafont/license/"
+    }
   }
 ]
