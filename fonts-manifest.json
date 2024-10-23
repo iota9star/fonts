@@ -1,21 +1,33 @@
 [
   {
-    "id": "misans",
-    "name": "MiSans",
+    "id": "judousansui",
+    "name": "句读黑体 UI",
     "files": [
-      "misans/MiSans-Bold.ttf",
-      "misans/MiSans-Heavy.ttf",
-      "misans/MiSans-Light.ttf",
-      "misans/MiSans-Medium.ttf",
-      "misans/MiSans-Regular.ttf",
-      "misans/MiSans-Thin.ttf",
-      "misans/MiSans-L3.otf"
+      "judousansui/JudouSansUiHans-Light.ttf",
+      "judousansui/JudouSansUiHans-Regular.ttf",
+      "judousansui/JudouSansUiHans-Medium.ttf",
+      "judousansui/JudouSansUiHans-Bold.ttf"
     ],
-    "desc": "MiSans Global 是由小米主导，联合蒙纳字库、汉仪字库共同打造的全球语言字体定制项目。这是一个庞大的字体家族，涵盖 20 多种书写系统，支持 600 多种语言，字符数量超过 10 万个。作为 Xiaomi HyperOS 系统默认字体，我们以简约/清晰，人文/易读，统一的视觉风格为基本原则出发，构建多语言信息体验一致性，旨在帮助为 Xiaomi HyperOS 提供互联的通用体验。",
-    "official": "https://hyperos.mi.com/font",
+    "desc": "句读黑体，基于思源黑体和 FiraGO 等字体，商用免费的多文种混排字体。",
+    "official": "https://github.com/JudouEco/JudouSans",
     "license": {
-      "name": "其他协议",
-      "url": "https://hyperos.mi.com/font/faq"
+      "name": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org/open-font-license-official-text/"
+    }
+  },
+  {
+    "id": "yozai",
+    "name": "悠哉字体",
+    "files": [
+      "yozai/Yozai-Light.ttf",
+      "yozai/Yozai-Regular.ttf",
+      "yozai/Yozai-Medium.ttf"
+    ],
+    "desc": "一款基于 Y.OzFont 的手写风格的字体。",
+    "official": "https://github.com/lxgw/yozai-font",
+    "license": {
+      "name": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org/open-font-license-official-text/"
     }
   },
   {
@@ -71,6 +83,25 @@
     }
   },
   {
+    "id": "misans",
+    "name": "MiSans",
+    "files": [
+      "misans/MiSans-Bold.ttf",
+      "misans/MiSans-Heavy.ttf",
+      "misans/MiSans-Light.ttf",
+      "misans/MiSans-Medium.ttf",
+      "misans/MiSans-Regular.ttf",
+      "misans/MiSans-Thin.ttf",
+      "misans/MiSans-L3.otf"
+    ],
+    "desc": "MiSans Global 是由小米主导，联合蒙纳字库、汉仪字库共同打造的全球语言字体定制项目。这是一个庞大的字体家族，涵盖 20 多种书写系统，支持 600 多种语言，字符数量超过 10 万个。作为 Xiaomi HyperOS 系统默认字体，我们以简约/清晰，人文/易读，统一的视觉风格为基本原则出发，构建多语言信息体验一致性，旨在帮助为 Xiaomi HyperOS 提供互联的通用体验。",
+    "official": "https://hyperos.mi.com/font",
+    "license": {
+      "name": "其他协议",
+      "url": "https://hyperos.mi.com/font/faq"
+    }
+  },
+  {
     "id": "alibabapuhuiti3",
     "name": "阿里巴巴普惠体 3.0",
     "files": [
@@ -84,22 +115,6 @@
     "license": {
       "name": "其他协议",
       "url": "https://www.yuque.com/yiguang-wkqc2/puhuiti/nus9wiinq4aeiegy"
-    }
-  },
-  {
-    "id": "judousansui",
-    "name": "句读黑体 UI",
-    "files": [
-      "judousansui/JudouSansUiHans-Light.ttf",
-      "judousansui/JudouSansUiHans-Regular.ttf",
-      "judousansui/JudouSansUiHans-Medium.ttf",
-      "judousansui/JudouSansUiHans-Bold.ttf"
-    ],
-    "desc": "句读黑体，基于思源黑体和 FiraGO 等字体，支持多种语言文字的商用免费开源黑体。",
-    "official": "https://github.com/JudouEco/JudouSans",
-    "license": {
-      "name": "SIL OFL 1.1",
-      "url": "https://openfontlicense.org/open-font-license-official-text/"
     }
   },
   {
@@ -326,6 +341,86 @@
     }
   },
   {
+    "id": "sarasa-slab",
+    "name": "等距更纱黑体 Slab",
+    "files": [
+      "sarasa-slab/SarasaMonoSlabSC-Regular.ttf",
+      "sarasa-slab/SarasaMonoSlabSC-Italic.ttf",
+      "sarasa-slab/SarasaMonoSlabSC-Bold.ttf",
+      "sarasa-slab/SarasaMonoSlabSC-BoldItalic.ttf"
+    ],
+    "desc": "等距更纱黑体 Slab 使用等宽西文《Iosevka Slab》。",
+    "official": "https://github.com/be5invis/Sarasa-Gothic",
+    "license": {
+      "name": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org/open-font-license-official-text/"
+    }
+  },
+  {
+    "id": "sarasa-gothic-cl",
+    "name": "更纱黑体 CL 旧字形",
+    "files": [
+      "sarasa-gothic-cl/SarasaGothicCL-Light.ttf",
+      "sarasa-gothic-cl/SarasaGothicCL-Regular.ttf",
+      "sarasa-gothic-cl/SarasaGothicCL-SemiBold.ttf",
+      "sarasa-gothic-cl/SarasaGothicCL-Bold.ttf"
+    ],
+    "desc": "更纱黑体使用全宽引号和比例数字。",
+    "official": "https://github.com/be5invis/Sarasa-Gothic",
+    "license": {
+      "name": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org/open-font-license-official-text/"
+    }
+  },
+  {
+    "id": "sarasa-ui-cl",
+    "name": "更纱黑体 UI CL 旧字形",
+    "files": [
+      "sarasa-ui-cl/SarasaUiCL-Light.ttf",
+      "sarasa-ui-cl/SarasaUiCL-Regular.ttf",
+      "sarasa-ui-cl/SarasaUiCL-SemiBold.ttf",
+      "sarasa-ui-cl/SarasaUiCL-Bold.ttf"
+    ],
+    "desc": "更纱黑体 UI 使用缩进引号和等宽数字。",
+    "official": "https://github.com/be5invis/Sarasa-Gothic",
+    "license": {
+      "name": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org/open-font-license-official-text/"
+    }
+  },
+  {
+    "id": "sarasa-mono-cl",
+    "name": "等距更纱黑体 CL 旧字形",
+    "files": [
+      "sarasa-mono-cl/SarasaMonoCL-Light.ttf",
+      "sarasa-mono-cl/SarasaMonoCL-Regular.ttf",
+      "sarasa-mono-cl/SarasaMonoCL-SemiBold.ttf",
+      "sarasa-mono-cl/SarasaMonoCL-Bold.ttf"
+    ],
+    "desc": "等距更纱黑体使用等宽西文《Iosevka》。",
+    "official": "https://github.com/be5invis/Sarasa-Gothic",
+    "license": {
+      "name": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org/open-font-license-official-text/"
+    }
+  },
+  {
+    "id": "sarasa-slab-cl",
+    "name": "等距更纱黑体 Slab CL 旧字形",
+    "files": [
+      "sarasa-slab-cl/SarasaMonoSlabCL-Regular.ttf",
+      "sarasa-slab-cl/SarasaMonoSlabCL-Italic.ttf",
+      "sarasa-slab-cl/SarasaMonoSlabCL-Bold.ttf",
+      "sarasa-slab-cl/SarasaMonoSlabCL-BoldItalic.ttf"
+    ],
+    "desc": "等距更纱黑体 Slab 使用等宽西文《Iosevka Slab》。",
+    "official": "https://github.com/be5invis/Sarasa-Gothic",
+    "license": {
+      "name": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org/open-font-license-official-text/"
+    }
+  },
+  {
     "id": "ysxxk",
     "name": "演示夏行楷",
     "files": [
@@ -394,10 +489,10 @@
     "id": "advocateancientrounded",
     "name": "尙古圆体",
     "files": [
-      "advocateancientrounded/AdvocateAncientRoundedST-Light.ttf",
-      "advocateancientrounded/AdvocateAncientRoundedST-Regular.ttf",
-      "advocateancientrounded/AdvocateAncientRoundedST-Medium.ttf",
-      "advocateancientrounded/AdvocateAncientRoundedST-Bold.ttf"
+      "advocateancientrounded/ShangguRoundST-Light.ttf",
+      "advocateancientrounded/ShangguRoundST-Regular.ttf",
+      "advocateancientrounded/ShangguRoundST-Medium.ttf",
+      "advocateancientrounded/ShangguRoundST-Bold.ttf"
     ],
     "desc": "基于思源的传承字形（旧字形）字体。",
     "official": "https://github.com/GuiWonder/SourceHanToClassic/",
