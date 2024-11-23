@@ -1,7 +1,7 @@
 [
   {
     "id": "judousansui",
-    "name": "句读黑体 UI",
+    "name": "句读黑体 UI Hans",
     "files": [
       "judousansui/JudouSansUiHans-Light.ttf",
       "judousansui/JudouSansUiHans-Regular.ttf",
@@ -9,6 +9,54 @@
       "judousansui/JudouSansUiHans-Bold.ttf"
     ],
     "desc": "句读黑体，基于思源黑体和 FiraGO 等字体，商用免费的多文种混排字体。",
+    "official": "https://github.com/JudouEco/JudouSans",
+    "license": {
+      "name": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org/open-font-license-official-text/"
+    }
+  },
+  {
+    "id": "judousansuihant",
+    "name": "句读黑体 UI Hant",
+    "files": [
+      "judousansuihant/JudouSansUiHant-Light.ttf",
+      "judousansuihant/JudouSansUiHant-Regular.ttf",
+      "judousansuihant/JudouSansUiHant-Medium.ttf",
+      "judousansuihant/JudouSansUiHant-Bold.ttf"
+    ],
+    "desc": "句读黑体 传承字形版本",
+    "official": "https://github.com/JudouEco/JudouSans",
+    "license": {
+      "name": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org/open-font-license-official-text/"
+    }
+  },
+  {
+    "id": "judousansuijpan",
+    "name": "句读黑体 UI Jpan",
+    "files": [
+      "judousansuijpan/JudouSansUiJpan-Light.ttf",
+      "judousansuijpan/JudouSansUiJpan-Regular.ttf",
+      "judousansuijpan/JudouSansUiJpan-Medium.ttf",
+      "judousansuijpan/JudouSansUiJpan-Bold.ttf"
+    ],
+    "desc": "句读黑体 日本字形版本",
+    "official": "https://github.com/JudouEco/JudouSans",
+    "license": {
+      "name": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org/open-font-license-official-text/"
+    }
+  },
+  {
+    "id": "judousansuikore",
+    "name": "句读黑体 UI Kore",
+    "files": [
+      "judousansuikore/JudouSansUiKore-Light.ttf",
+      "judousansuikore/JudouSansUiKore-Regular.ttf",
+      "judousansuikore/JudouSansUiKore-Medium.ttf",
+      "judousansuikore/JudouSansUiKore-Bold.ttf"
+    ],
+    "desc": "句读黑体 韩国字形版本",
     "official": "https://github.com/JudouEco/JudouSans",
     "license": {
       "name": "SIL OFL 1.1",
