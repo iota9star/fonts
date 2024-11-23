@@ -175,6 +175,25 @@
     }
   },
   {
+    "id": "ibm-plex-sans-sc",
+    "name": "IBM Plex Sans SC",
+    "files": [
+      "ibm-plex-sans-sc/IBMPlexSansSC-Thin.otf",
+      "ibm-plex-sans-sc/IBMPlexSansSC-ExtraLight.otf",
+      "ibm-plex-sans-sc/IBMPlexSansSC-Light.otf",
+      "ibm-plex-sans-sc/IBMPlexSansSC-Text.otf",
+      "ibm-plex-sans-sc/IBMPlexSansSC-Medium.otf",
+      "ibm-plex-sans-sc/IBMPlexSansSC-SemiBold.otf",
+      "ibm-plex-sans-sc/IBMPlexSansSC-Bold.otf"
+    ],
+    "desc": "IBM 的开源字体。全球性，多功能，且像 IBM 一样独特。",
+    "official": "https://github.com/IBM/plex/tree/feat-plex-sans-sc/packages/plex-sans-sc",
+    "license": {
+      "name": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org/open-font-license-official-text/"
+    }
+  },
+  {
     "id": "xwwk",
     "name": "霞鹜文楷 Lite",
     "files": [
