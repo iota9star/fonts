@@ -16,48 +16,19 @@
     }
   },
   {
-    "id": "judousansuihant",
-    "name": "句读黑体 UI Hant",
+    "id": "ibm-plex-sans-sc",
+    "name": "IBM Plex Sans SC",
     "files": [
-      "judousansuihant/JudouSansUiHant-Light.ttf",
-      "judousansuihant/JudouSansUiHant-Regular.ttf",
-      "judousansuihant/JudouSansUiHant-Medium.ttf",
-      "judousansuihant/JudouSansUiHant-Bold.ttf"
+      "ibm-plex-sans-sc/IBMPlexSansSC-Thin.otf",
+      "ibm-plex-sans-sc/IBMPlexSansSC-ExtraLight.otf",
+      "ibm-plex-sans-sc/IBMPlexSansSC-Light.otf",
+      "ibm-plex-sans-sc/IBMPlexSansSC-Text.otf",
+      "ibm-plex-sans-sc/IBMPlexSansSC-Medium.otf",
+      "ibm-plex-sans-sc/IBMPlexSansSC-SemiBold.otf",
+      "ibm-plex-sans-sc/IBMPlexSansSC-Bold.otf"
     ],
-    "desc": "句读黑体 传承字形版本",
-    "official": "https://github.com/JudouEco/JudouSans",
-    "license": {
-      "name": "SIL OFL 1.1",
-      "url": "https://openfontlicense.org/open-font-license-official-text/"
-    }
-  },
-  {
-    "id": "judousansuijpan",
-    "name": "句读黑体 UI Jpan",
-    "files": [
-      "judousansuijpan/JudouSansUiJpan-Light.ttf",
-      "judousansuijpan/JudouSansUiJpan-Regular.ttf",
-      "judousansuijpan/JudouSansUiJpan-Medium.ttf",
-      "judousansuijpan/JudouSansUiJpan-Bold.ttf"
-    ],
-    "desc": "句读黑体 日本字形版本",
-    "official": "https://github.com/JudouEco/JudouSans",
-    "license": {
-      "name": "SIL OFL 1.1",
-      "url": "https://openfontlicense.org/open-font-license-official-text/"
-    }
-  },
-  {
-    "id": "judousansuikore",
-    "name": "句读黑体 UI Kore",
-    "files": [
-      "judousansuikore/JudouSansUiKore-Light.ttf",
-      "judousansuikore/JudouSansUiKore-Regular.ttf",
-      "judousansuikore/JudouSansUiKore-Medium.ttf",
-      "judousansuikore/JudouSansUiKore-Bold.ttf"
-    ],
-    "desc": "句读黑体 韩国字形版本",
-    "official": "https://github.com/JudouEco/JudouSans",
+    "desc": "IBM 的开源字体。全球性，多功能，且像 IBM 一样独特。",
+    "official": "https://github.com/IBM/plex/tree/feat-plex-sans-sc/packages/plex-sans-sc",
     "license": {
       "name": "SIL OFL 1.1",
       "url": "https://openfontlicense.org/open-font-license-official-text/"
@@ -220,25 +191,6 @@
     "license": {
       "name": "其他协议",
       "url": "hmsans/LICENSE.txt"
-    }
-  },
-  {
-    "id": "ibm-plex-sans-sc",
-    "name": "IBM Plex Sans SC",
-    "files": [
-      "ibm-plex-sans-sc/IBMPlexSansSC-Thin.otf",
-      "ibm-plex-sans-sc/IBMPlexSansSC-ExtraLight.otf",
-      "ibm-plex-sans-sc/IBMPlexSansSC-Light.otf",
-      "ibm-plex-sans-sc/IBMPlexSansSC-Text.otf",
-      "ibm-plex-sans-sc/IBMPlexSansSC-Medium.otf",
-      "ibm-plex-sans-sc/IBMPlexSansSC-SemiBold.otf",
-      "ibm-plex-sans-sc/IBMPlexSansSC-Bold.otf"
-    ],
-    "desc": "IBM 的开源字体。全球性，多功能，且像 IBM 一样独特。",
-    "official": "https://github.com/IBM/plex/tree/feat-plex-sans-sc/packages/plex-sans-sc",
-    "license": {
-      "name": "SIL OFL 1.1",
-      "url": "https://openfontlicense.org/open-font-license-official-text/"
     }
   },
   {
@@ -582,6 +534,54 @@
     ],
     "desc": "繁 Think 黑是一套基於 IBM Plex Sans TC 的自動簡轉繁字體。簡轉繁代碼來自 GuiWonder。",
     "official": "https://github.com/pkj-l/FanThinkGrotesk",
+    "license": {
+      "name": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org/open-font-license-official-text/"
+    }
+  },
+  {
+    "id": "judousansuihant",
+    "name": "句读黑体 UI Hant",
+    "files": [
+      "judousansuihant/JudouSansUiHant-Light.ttf",
+      "judousansuihant/JudouSansUiHant-Regular.ttf",
+      "judousansuihant/JudouSansUiHant-Medium.ttf",
+      "judousansuihant/JudouSansUiHant-Bold.ttf"
+    ],
+    "desc": "句读黑体 传承字形版本",
+    "official": "https://github.com/JudouEco/JudouSans",
+    "license": {
+      "name": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org/open-font-license-official-text/"
+    }
+  },
+  {
+    "id": "judousansuijpan",
+    "name": "句读黑体 UI Jpan",
+    "files": [
+      "judousansuijpan/JudouSansUiJpan-Light.ttf",
+      "judousansuijpan/JudouSansUiJpan-Regular.ttf",
+      "judousansuijpan/JudouSansUiJpan-Medium.ttf",
+      "judousansuijpan/JudouSansUiJpan-Bold.ttf"
+    ],
+    "desc": "句读黑体 日本字形版本",
+    "official": "https://github.com/JudouEco/JudouSans",
+    "license": {
+      "name": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org/open-font-license-official-text/"
+    }
+  },
+  {
+    "id": "judousansuikore",
+    "name": "句读黑体 UI Kore",
+    "files": [
+      "judousansuikore/JudouSansUiKore-Light.ttf",
+      "judousansuikore/JudouSansUiKore-Regular.ttf",
+      "judousansuikore/JudouSansUiKore-Medium.ttf",
+      "judousansuikore/JudouSansUiKore-Bold.ttf"
+    ],
+    "desc": "句读黑体 韩国字形版本",
+    "official": "https://github.com/JudouEco/JudouSans",
     "license": {
       "name": "SIL OFL 1.1",
       "url": "https://openfontlicense.org/open-font-license-official-text/"
