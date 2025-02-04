@@ -16,6 +16,125 @@
     }
   },
   {
+    "id": "judousansuihant",
+    "name": "句读黑体 UI Hant",
+    "files": [
+      "judousansuihant/JudouSansUiHant-Light.ttf",
+      "judousansuihant/JudouSansUiHant-Regular.ttf",
+      "judousansuihant/JudouSansUiHant-Medium.ttf",
+      "judousansuihant/JudouSansUiHant-Bold.ttf"
+    ],
+    "desc": "句读黑体 传承字形版本",
+    "official": "https://github.com/JudouEco/JudouSans",
+    "license": {
+      "name": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org/open-font-license-official-text/"
+    }
+  },
+  {
+    "id": "chillroundm",
+    "name": "寒蝉半圆体",
+    "files": [
+      "chillroundm/ChillRoundM.otf"
+    ],
+    "desc": "寒蝉半圆体，基于日本开源字体 Zen Maru Gothic 进行调整的圆体字体，更新为符合 GB2312 标准的字符集，使其应用范围更广；修正部分字形和补充部分字形，调整到更均衡的排版。",
+    "official": "https://github.com/Warren2060/ChillRound",
+    "license": {
+      "name": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org/open-font-license-official-text/"
+    }
+  },
+  {
+    "id": "huiwen-hkhei",
+    "name": "汇文港黑",
+    "files": [
+      "huiwen-hkhei/HuiwenHKHei-Regular.ttf"
+    ],
+    "desc": "特里王系列精品免费商用字体，字形主要参考自照排时期香港广泛使用的港版岩田黑体。",
+    "official": "https://zhuanlan.zhihu.com/p/12669052378",
+    "license": {
+      "name": "其他协议",
+      "url": "https://zhuanlan.zhihu.com/p/12669052378"
+    }
+  },
+  {
+    "id": "huiwen-mincho",
+    "name": "汇文明朝体 GBK",
+    "files": [
+      "huiwen-mincho/HuiwenMinchoGBK-Regular.ttf"
+    ],
+    "desc": "特里王系列精品免费商用字体，字形主要来自五六十年代官方各种汉字改革文件。",
+    "official": "https://zhuanlan.zhihu.com/p/12669052378",
+    "license": {
+      "name": "其他协议",
+      "url": "https://zhuanlan.zhihu.com/p/12669052378"
+    }
+  },
+  {
+    "id": "huiwen-zhengkai",
+    "name": "汇文正楷",
+    "files": [
+      "huiwen-zhengkai/HuiwenZhengKai-Regular.ttf"
+    ],
+    "desc": "特里王系列精品免费商用字体，字形来自大名鼎鼎的「汉文正楷」。",
+    "official": "https://zhuanlan.zhihu.com/p/12669052378",
+    "license": {
+      "name": "其他协议",
+      "url": "https://zhuanlan.zhihu.com/p/12669052378"
+    }
+  },
+  {
+    "id": "huiwen-fangsong",
+    "name": "汇文仿宋",
+    "files": [
+      "huiwen-fangsong/HuiwenFangSong-Regular.ttf"
+    ],
+    "desc": "特里王系列精品免费商用字体，字形来自新华字模厂的老 59-4 仿宋体。",
+    "official": "https://zhuanlan.zhihu.com/p/12669052378",
+    "license": {
+      "name": "其他协议",
+      "url": "https://zhuanlan.zhihu.com/p/12669052378"
+    }
+  },
+  {
+    "id": "blix",
+    "name": "卜力士",
+    "files": [
+      "blix/Blix-Thin.otf",
+      "blix/Blix-ExtraLight.otf",
+      "blix/Blix-Light.otf",
+      "blix/Blix-Text.otf",
+      "blix/Blix-Medium.otf",
+      "blix/Blix-SemiBold.otf",
+      "blix/Blix-Bold.otf"
+    ],
+    "desc": "基于 IBM Plex Sans 汉字系列的合并字体，尽可能减少规范字形的󠄁影响。",
+    "official": "https://drive.google.com/drive/folders/14naJSasVxrPstbWkHtK696LLGAb5H-vm?usp=sharing",
+    "license": {
+      "name": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org/open-font-license-official-text/"
+    }
+  },
+  {
+    "id": "plix",
+    "name": "普力士",
+    "files": [
+      "plix/Plix-Thin.otf",
+      "plix/Plix-ExtraLight.otf",
+      "plix/Plix-Light.otf",
+      "plix/Plix-Text.otf",
+      "plix/Plix-Medium.otf",
+      "plix/Plix-SemiBold.otf",
+      "plix/Plix-Bold.otf"
+    ],
+    "desc": "基于 IBM Plex Sans 汉字系列的合并字体，尽可能减少规范字形的󠄁影响。",
+    "official": "https://drive.google.com/drive/folders/14naJSasVxrPstbWkHtK696LLGAb5H-vm?usp=sharing",
+    "license": {
+      "name": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org/open-font-license-official-text/"
+    }
+  },
+  {
     "id": "ibm-plex-sans-sc",
     "name": "IBM Plex Sans SC",
     "files": [
@@ -110,8 +229,7 @@
       "misans/MiSans-Light.ttf",
       "misans/MiSans-Medium.ttf",
       "misans/MiSans-Regular.ttf",
-      "misans/MiSans-Thin.ttf",
-      "misans/MiSans-L3.otf"
+      "misans/MiSans-Thin.ttf"
     ],
     "desc": "MiSans Global 是由小米主导，联合蒙纳字库、汉仪字库共同打造的全球语言字体定制项目。这是一个庞大的字体家族，涵盖 20 多种书写系统，支持 600 多种语言，字符数量超过 10 万个。作为 Xiaomi HyperOS 系统默认字体，我们以简约/清晰，人文/易读，统一的视觉风格为基本原则出发，构建多语言信息体验一致性，旨在帮助为 Xiaomi HyperOS 提供互联的通用体验。",
     "official": "https://hyperos.mi.com/font",
@@ -534,54 +652,6 @@
     ],
     "desc": "繁 Think 黑是一套基於 IBM Plex Sans TC 的自動簡轉繁字體。簡轉繁代碼來自 GuiWonder。",
     "official": "https://github.com/pkj-l/FanThinkGrotesk",
-    "license": {
-      "name": "SIL OFL 1.1",
-      "url": "https://openfontlicense.org/open-font-license-official-text/"
-    }
-  },
-  {
-    "id": "judousansuihant",
-    "name": "句读黑体 UI Hant",
-    "files": [
-      "judousansuihant/JudouSansUiHant-Light.ttf",
-      "judousansuihant/JudouSansUiHant-Regular.ttf",
-      "judousansuihant/JudouSansUiHant-Medium.ttf",
-      "judousansuihant/JudouSansUiHant-Bold.ttf"
-    ],
-    "desc": "句读黑体 传承字形版本",
-    "official": "https://github.com/JudouEco/JudouSans",
-    "license": {
-      "name": "SIL OFL 1.1",
-      "url": "https://openfontlicense.org/open-font-license-official-text/"
-    }
-  },
-  {
-    "id": "judousansuijpan",
-    "name": "句读黑体 UI Jpan",
-    "files": [
-      "judousansuijpan/JudouSansUiJpan-Light.ttf",
-      "judousansuijpan/JudouSansUiJpan-Regular.ttf",
-      "judousansuijpan/JudouSansUiJpan-Medium.ttf",
-      "judousansuijpan/JudouSansUiJpan-Bold.ttf"
-    ],
-    "desc": "句读黑体 日本字形版本",
-    "official": "https://github.com/JudouEco/JudouSans",
-    "license": {
-      "name": "SIL OFL 1.1",
-      "url": "https://openfontlicense.org/open-font-license-official-text/"
-    }
-  },
-  {
-    "id": "judousansuikore",
-    "name": "句读黑体 UI Kore",
-    "files": [
-      "judousansuikore/JudouSansUiKore-Light.ttf",
-      "judousansuikore/JudouSansUiKore-Regular.ttf",
-      "judousansuikore/JudouSansUiKore-Medium.ttf",
-      "judousansuikore/JudouSansUiKore-Bold.ttf"
-    ],
-    "desc": "句读黑体 韩国字形版本",
-    "official": "https://github.com/JudouEco/JudouSans",
     "license": {
       "name": "SIL OFL 1.1",
       "url": "https://openfontlicense.org/open-font-license-official-text/"
