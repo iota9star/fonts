@@ -32,6 +32,19 @@
     }
   },
   {
+    "id": "fusion-pixel",
+    "name": "缝合像素字体",
+    "files": [
+      "fusion-pixel/fusion-pixel-12px-proportional-zh_hans.ttf"
+    ],
+    "desc": "该项目为 「方舟像素字体」 的临时性过渡方案。使用多个像素字体合并而成，因此以「缝合」命名。",
+    "official": "https://github.com/TakWolf/fusion-pixel-font",
+    "license": {
+      "name": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org/open-font-license-official-text/"
+    }
+  },
+  {
     "id": "chillroundm",
     "name": "寒蝉半圆体",
     "files": [
