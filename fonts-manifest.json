@@ -32,6 +32,22 @@
     }
   },
   {
+    "id": "chiron-go-round",
+    "name": "昭源环方",
+    "files": [
+      "chiron-go-round/ChironGoRoundTC-300L.ttf",
+      "chiron-go-round/ChironGoRoundTC-400R.ttf",
+      "chiron-go-round/ChironGoRoundTC-500M.ttf",
+      "chiron-go-round/ChironGoRoundTC-700B.ttf"
+    ],
+    "desc": "现代笔形风格，平衡标准字形和印刷体惯用笔形的免费开源仿圆体字体。",
+    "official": "https://github.com/chiron-fonts/chiron-go-round-tc",
+    "license": {
+      "name": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org/open-font-license-official-text/"
+    }
+  },
+  {
     "id": "copperzhengkai",
     "name": "汇迹正楷",
     "files": [
@@ -744,6 +760,26 @@
     ],
     "desc": "Lexend is a variable typeface designed by Bonnie Shaver-Troup and Thomas Jockin in 2018. Applying the Shaver-Troup Individually Optimal Text Formation Factors, studies have found readers instantaneously improve their reading fluency.",
     "official": "https://www.lexend.com/",
+    "license": {
+      "name": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org/open-font-license-official-text/"
+    }
+  },
+  {
+    "id": "playpen",
+    "name": "Playpen Sans",
+    "files": [
+      "playpen/PlaypenSans-Thin.ttf",
+      "playpen/PlaypenSans-ExtraLight.ttf",
+      "playpen/PlaypenSans-Light.ttf",
+      "playpen/PlaypenSans-Regular.ttf",
+      "playpen/PlaypenSans-Medium.ttf",
+      "playpen/PlaypenSans-SemiBold.ttf",
+      "playpen/PlaypenSans-Bold.ttf",
+      "playpen/PlaypenSans-ExtraBold.ttf"
+    ],
+    "desc": "Playpen Sans is one of the font families produced by TypeTogether after more than two years of primary research into handwriting education for Latin-based languages. It has seven automatic alternates for each character and a built-in shuffler that both ensures variation and avoids repetitive shapes in close proximity. This feature adds to the overall organic, spontaneous, and authentic feel of the handwritten style.",
+    "official": "https://github.com/TypeTogether/Playpen-Sans",
     "license": {
       "name": "SIL OFL 1.1",
       "url": "https://openfontlicense.org/open-font-license-official-text/"
