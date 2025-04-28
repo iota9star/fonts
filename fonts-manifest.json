@@ -665,6 +665,20 @@
     }
   },
   {
+    "id": "cyroithb",
+    "name": "Cyroit HB",
+    "files": [
+      "cyroithb/CyroitHB-Regular.ttf",
+      "cyroithb/CyroitHB-Bold.ttf"
+    ],
+    "desc": "全角英数や半角カナが判別しやすい、文字間隔調整機能付き等幅フォント。",
+    "official": "https://github.com/omonomo/Cyroit",
+    "license": {
+      "name": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org/open-font-license-official-text/"
+    }
+  },
+  {
     "id": "advocateancientrounded",
     "name": "尙古圆体",
     "files": [
@@ -674,7 +688,7 @@
       "advocateancientrounded/ShangguRoundST-Bold.ttf"
     ],
     "desc": "基于思源的传承字形（旧字形）字体。",
-    "official": "https://github.com/GuiWonder/SourceHanToClassic/",
+    "official": "https://github.com/GuiWonder/Shanggu",
     "license": {
       "name": "SIL OFL 1.1",
       "url": "https://openfontlicense.org/open-font-license-official-text/"
