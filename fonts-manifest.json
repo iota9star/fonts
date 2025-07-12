@@ -3,10 +3,12 @@
     "id": "judousansui",
     "name": "句读黑体 UI Hans",
     "files": [
+      "judousansui/JudouSansUiHans-ExtraLight.ttf",
       "judousansui/JudouSansUiHans-Light.ttf",
       "judousansui/JudouSansUiHans-Regular.ttf",
       "judousansui/JudouSansUiHans-Medium.ttf",
-      "judousansui/JudouSansUiHans-Bold.ttf"
+      "judousansui/JudouSansUiHans-Bold.ttf",
+      "judousansui/JudouSansUiHans-Heavy.ttf"
     ],
     "desc": "句读黑体，基于思源黑体和 FiraGO 等字体，商用免费的多文种混排字体。",
     "official": "https://github.com/JudouEco/JudouSans",
@@ -19,13 +21,34 @@
     "id": "judousansuihant",
     "name": "句读黑体 UI Hant",
     "files": [
+      "judousansuihant/JudouSansUiHant-ExtraLight.ttf",
       "judousansuihant/JudouSansUiHant-Light.ttf",
       "judousansuihant/JudouSansUiHant-Regular.ttf",
       "judousansuihant/JudouSansUiHant-Medium.ttf",
-      "judousansuihant/JudouSansUiHant-Bold.ttf"
+      "judousansuihant/JudouSansUiHant-Bold.ttf",
+      "judousansuihant/JudouSansUiHant-Heavy.ttf"
     ],
     "desc": "句读黑体 传承字形版本",
     "official": "https://github.com/JudouEco/JudouSans",
+    "license": {
+      "name": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org/open-font-license-official-text/"
+    }
+  },
+{
+    "id": "frex-sans",
+    "name": "械黑",
+    "files": [
+      "frex-sans/FrexSansGB-Thin.ttf",
+      "frex-sans/FrexSansGB-ExtraLight.ttf",
+      "frex-sans/FrexSansGB-Light.ttf",
+      "frex-sans/FrexSansGB-Text.ttf",
+      "frex-sans/FrexSansGB-Medium.ttf",
+      "frex-sans/FrexSansGB-SemiBold.ttf",
+      "frex-sans/FrexSansGB-Bold.ttf"
+    ],
+    "desc": "将 IBM Plex Sans SC 中成部件的大量不必要修改还原成字体的原有风格，并修复了其中的一部分错形，部分零碎的字形也已恢复到繁体版和日文版原本的设计。",
+    "official": "https://www.maoken.com/freefonts/26125.html",
     "license": {
       "name": "SIL OFL 1.1",
       "url": "https://openfontlicense.org/open-font-license-official-text/"
