@@ -54,6 +54,20 @@
       "url": "https://openfontlicense.org/open-font-license-official-text/"
     }
   },
+{
+    "id": "zhiyimaru",
+    "name": "致一圆体",
+    "files": [
+      "zhiyimaru/ZhiyiMaru-Regular.ttf",
+      "zhiyimaru/ZhiyiMaru-Bold.ttf"
+    ],
+    "desc": "基于旧印刷字形的「霞鹜晰黑」修改而来，并制作了圆体、粗圆，以适应现代阅读环境对多样式、多字重字型的需要。",
+    "official": "https://github.com/RiyipuSipino/ZhiyiSans",
+    "license": {
+      "name": "IPA Font License 1.0",
+      "url": "https://moji.or.jp/ipafont/license/"
+    }
+  },
   {
     "id": "chiron-go-round",
     "name": "昭源环方",
