@@ -55,6 +55,21 @@
     }
   },
 {
+    "id": "chilldin",
+    "name": "寒蝉德黑体",
+    "files": [
+      "chilldin/ChillDINGothic_Regular.otf",
+      "chilldin/ChillDINGothic_Medium.otf",
+      "chilldin/ChillDINGothic_Bold.otf"
+    ],
+    "desc": "源于德国工业标准字体“DIN”，基于D-DIN的修缮。",
+    "official": "github.com/Warren2060/ChillDIN-ChillDINGothic",
+    "license": {
+      "name": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org/open-font-license-official-text/"
+    }
+  },
+{
     "id": "zhiyimaru",
     "name": "致一圆体",
     "files": [
@@ -251,7 +266,7 @@
     "id": "childfunsans",
     "name": "游趣体",
     "files": [
-      "childfunsans/ChildFunSans-Demo.ttf"
+      "childfunsans/ChildFunSans.ttf"
     ],
     "desc": "一款开源简体中文字体，基于 Fontworks 的 Stick 衍生。",
     "official": "https://github.com/Des-Magmeta/ChildFunSans",
@@ -560,10 +575,10 @@
     "id": "sarasa-slab",
     "name": "等距更纱黑体 Slab",
     "files": [
+      "sarasa-slab/SarasaMonoSlabSC-Light.ttf",
       "sarasa-slab/SarasaMonoSlabSC-Regular.ttf",
-      "sarasa-slab/SarasaMonoSlabSC-Italic.ttf",
-      "sarasa-slab/SarasaMonoSlabSC-Bold.ttf",
-      "sarasa-slab/SarasaMonoSlabSC-BoldItalic.ttf"
+      "sarasa-slab/SarasaMonoSlabSC-SemiBold.ttf",
+      "sarasa-slab/SarasaMonoSlabSC-Bold.ttf"
     ],
     "desc": "等距更纱黑体 Slab 使用等宽西文《Iosevka Slab》。",
     "official": "https://github.com/be5invis/Sarasa-Gothic",
@@ -624,10 +639,10 @@
     "id": "sarasa-slab-cl",
     "name": "等距更纱黑体 Slab CL 旧字形",
     "files": [
+      "sarasa-slab-cl/SarasaMonoSlabCL-Light.ttf",
       "sarasa-slab-cl/SarasaMonoSlabCL-Regular.ttf",
-      "sarasa-slab-cl/SarasaMonoSlabCL-Italic.ttf",
-      "sarasa-slab-cl/SarasaMonoSlabCL-Bold.ttf",
-      "sarasa-slab-cl/SarasaMonoSlabCL-BoldItalic.ttf"
+      "sarasa-slab-cl/SarasaMonoSlabCL-SemiBold.ttf",
+      "sarasa-slab-cl/SarasaMonoSlabCL-Bold.ttf"
     ],
     "desc": "等距更纱黑体 Slab 使用等宽西文《Iosevka Slab》。",
     "official": "https://github.com/be5invis/Sarasa-Gothic",
